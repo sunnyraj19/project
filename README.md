@@ -1,2 +1,1 @@
-# project
-my projects
+Machine Learning Project on fake news detection
